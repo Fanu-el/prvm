@@ -1,5 +1,9 @@
 # prvm — Prompt Version Manager
 
+[![npm version](https://img.shields.io/npm/v/@fanu-el/prvm.svg)](https://www.npmjs.com/package/@fanu-el/prvm)
+[![downloads](https://img.shields.io/npm/dm/@fanu-el/prvm)](https://www.npmjs.com/package/@fanu-el/prvm)
+![license](https://img.shields.io/npm/l/@fanu-el/prvm)
+
 Track, test, and manage LLM prompt versions with confidence.
 
 ## Features
@@ -14,7 +18,7 @@ Track, test, and manage LLM prompt versions with confidence.
 ## Installation
 
 ```bash
-npm install -g prvm
+npm install -g @fanu-el/prvm
 ```
 
 ### Prerequisites
