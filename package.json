@@ -1,7 +1,20 @@
 {
-  "name": "prvm",
+  "name": "@fanu-el/prvm",
   "version": "0.1.0",
   "description": "Prompt Version Manager — track, test, and manage LLM prompt versions",
+  "license": "MIT",
+  "author": "Fanuel Amare",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fanu-el/prvm"
+  },
+  "keywords": [
+    "llm",
+    "prompt",
+    "versioning",
+    "cli",
+    "ai"
+  ],
   "bin": {
     "prvm": "./dist/index.js"
   },
